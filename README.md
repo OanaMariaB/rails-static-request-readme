@@ -185,3 +185,6 @@ routing in your application for static pages. As a review, the process is below:
 2. The application processes the request through the `routes.rb` file
 3. The route file maps the request through whichever controller method is called
 4. The controller then responds with the view that belongs to that specific method and delivers it to the client
+
+
+test
